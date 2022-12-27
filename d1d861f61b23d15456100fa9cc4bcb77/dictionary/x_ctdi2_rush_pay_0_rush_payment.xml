@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="5e99e5fa1b23d15456100fa9cc4bcb37" extends="task" label="Rush_Payment" max_length="40" name="x_ctdi2_rush_pay_0_rush_payment" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Bank Account" max_length="40" name="bank_account" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Bank Account Holder" max_length="40" name="bank_account_holder" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Payment Method" max_length="40" name="payment_method" type="string">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Reason" max_length="40" name="reason" type="string">
+            <choice/>
+        </element>
+    </element>
+</database>

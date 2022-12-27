@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Task table schema" source="com.glide.task">89c711e5db312010a778623b4b9619e9</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>Steven.Civelli</sys_created_by>
+        <sys_created_on>2022-12-07 12:18:40</sys_created_on>
+        <sys_id>a699e5fa1b23d15456100fa9cc4bcbe8</sys_id>
+        <sys_package display_value="rush payment" source="x_ctdi2_rush_pay_0">d1d861f61b23d15456100fa9cc4bcb77</sys_package>
+    </sys_package_dependency_m2m>
+</record_update>
